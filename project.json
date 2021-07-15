@@ -1,0 +1,10 @@
+{
+    "name": "xhs-search-username",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "com.pub.dist.gallery.xhs.search.username",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}
